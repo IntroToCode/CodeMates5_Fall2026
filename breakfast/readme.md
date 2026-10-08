@@ -26,7 +26,6 @@ This receipe was started in Seattle in the 1900s. It is an American version of a
 - [ ] pinch salt
 - [ ] 1/2 teaspoon vanilla extract
 - [ ] 3 Tablespoons (43g) unsalted butter
-Toppings:
 - [ ]2 Tablespoons confectioners’ sugar, for sifting
 - [ ]optional toppings: berries, whipped cream, maple syrup, and/or strawberry sauce
 <!-- List every ingredient -->
