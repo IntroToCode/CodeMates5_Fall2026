@@ -1,24 +1,31 @@
-# Replace with recipe name
+# Dutch Baby
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+This receipe was started in Seattle in the 1900s. It is an American version of a german dish called Pfannkuchen (oven-baked or skillet-cooked egg pancakes). The name Dutch Baby comes from an 'bastardized' version of the word 'Deutsch' and the fact the portions were served in a miniature version. It would be a waste not to spread a receipe with such a cool name.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 20 minutes |
+| Cook Time | 25 minutes |
+| Total Time | 45 minutes |
+| Servings | serves 4 |
+| Difficulty | Medium |
+| Tags | dessert |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] 3 large eggs, at room temperature
+- [ ] 3/4 cup (94g) all-purpose flour
+- [ ] 3/4 cup (180ml) whole milk, at room temperature (or nondairy)
+- [ ] 1 teaspoon lemon zest*
+- [ ] 2 Tablespoons (25g) granulated sugar
+- [ ] pinch salt
+- [ ] 1/2 teaspoon vanilla extract
+- [ ] 3 Tablespoons (43g) unsalted butter
       
 <!-- List every ingredient -->
 
