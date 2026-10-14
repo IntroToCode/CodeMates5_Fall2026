@@ -46,9 +46,9 @@ The pancake is best enjoyed right away, but you can cover and store leftovers in
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
-Milk: Best with whole milk, but you can use any milk, dairy or nondairy.
-Lemon Zest: The lemon zest adds a touch of fresh flavor; the baked pancake doesn’t particularly taste like lemon, though. Add more zest for a stronger flavor, or skip it entirely. Instead, you can add 1/2 teaspoon ground cinnamon.
-If You Don’t Have a Cast Iron Skillet: You can use any oven-safe skillet that’s around 10 inches in diameter. If you don’t have a 10-inch oven-safe skillet, you can use any 3-quart size baking dish, a 10-inch pie dish, or 9-inch square baking pan instead.
+- [ ] Milk: Best with whole milk, but you can use any milk, dairy or nondairy.
+- [ ] Lemon Zest: The lemon zest adds a touch of fresh flavor; the baked pancake doesn’t particularly taste like lemon, though. Add more zest for a stronger flavor, or skip it entirely. Instead, you can add 1/2 teaspoon ground cinnamon.
+- [ ] If You Don’t Have a Cast Iron Skillet: You can use any oven-safe skillet that’s around 10 inches in diameter. If you don’t have a 10-inch oven-safe skillet, you can use any 3-quart size baking dish, a 10-inch pie dish, or 9-inch square baking pan instead.
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
