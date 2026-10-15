@@ -14,7 +14,6 @@
 | Servings | e.g. 4 |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
-| Spice Level | 🫑 / 🌶️ / 🌶️🌶️ / 🌶️🌶️🌶️ / 🌶️🌶️🌶️🌶️ / 🌶️🌶️🌶️🌶️🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
