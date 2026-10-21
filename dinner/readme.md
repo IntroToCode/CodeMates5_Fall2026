@@ -36,15 +36,21 @@ This is a classic American family dish: comfort food for cold weather, with gril
 ### Steps for preparation:
 
 1. **Make the tomato soup**
-   - Melt 2 tablespoons of butter in a pot over medium heat. Add the diced onion and sauté until softened, about 5 minutes.
-   - Add the minced garlic and cook for 1 minute until fragrant.
-   - Pour in the crushed tomatoes and vegetable broth. Bring to a boil, then reduce the heat and simmer for 10 minutes.
+   - Melt 2 tablespoons of butter in a pot over medium heat.
+   - Add the diced onion and sauté until softened, about 5 minutes.
+   - Add the minced garlic and cook for 1 minute or until fragrant.
+   - Pour in the crushed tomatoes and vegetable broth.
+   - Bring to a boil, then reduce the heat and simmer for 10 minutes.
 2. **Make the grilled cheese sandwiches**
-   - While the soup is simmering, butter one side of each slice of bread. Place 2 slices of cheese between the bread slices, with the buttered sides facing outward.
-   - Cook in a skillet over medium heat for 2–3 minutes per side, until golden brown and the cheese has melted. Cut into strips.
+   - While the soup is simmering, butter one side of each slice of bread.
+   - Place 2 slices of cheese between the bread slices, with the buttered sides facing outward.
+   - Cook in a skillet over medium heat for 2–3 minutes per side, until golden brown and the cheese has melted.
+   - Cut into strips.
 3. **Finish and serve**
    - Turn off the heat and use an immersion blender to blend the soup until smooth.
-   - Season with salt and black pepper. Stir in some heavy cream for extra richness, if desired, and garnish with fresh basil.
+   - Season with salt and black pepper.
+   - Stir in some heavy cream for extra richness.
+   - If desired, and garnish with fresh basil.
    - Ladle the soup into bowls and serve with the grilled cheese strips for dipping.
      
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
