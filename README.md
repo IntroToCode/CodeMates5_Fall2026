@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: 
+- Dinner: [Tomato Soup with Grilled Cheese](dinner/readme.md)
 
 _Notes_
 __
