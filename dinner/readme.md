@@ -49,9 +49,6 @@ This is a classic American family dish: comfort food for cold weather, with gril
      
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
-### Beverage pairing:
-- Sparkling lemonade: The refreshing acidity of lemonade helps balance the richness of the grilled cheese and tomato soup.
-
 ### Notes:
 - Be careful when blending hot soup — it can splash and cause burns.
   
