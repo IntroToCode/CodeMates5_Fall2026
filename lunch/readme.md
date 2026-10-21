@@ -15,7 +15,7 @@ Chicken Tandoori Wrap is a flavorful Indian-inspired dish featuring tender chick
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | Indian, high-protein, lunch, dinner, spicy |
-
+| Spice Level | 🌶️ |
 ### Ingredients:
 
 - [ ] 1 lb boneless, skinless chicken breast
