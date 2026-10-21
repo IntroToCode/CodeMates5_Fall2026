@@ -1,6 +1,3 @@
-
-# Chicken Tandoori Wrap
-
 ## Description
 
 Chicken Tandoori Wrap is a flavorful Indian-inspired dish featuring tender chicken marinated in yogurt and aromatic spices, wrapped in a soft tortilla with fresh vegetables and a creamy yogurt sauce. It combines smoky, spicy, and refreshing flavors in a convenient meal.
