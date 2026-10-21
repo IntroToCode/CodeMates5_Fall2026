@@ -1,4 +1,3 @@
-# Replace with recipe name
 
 ## Description
 
