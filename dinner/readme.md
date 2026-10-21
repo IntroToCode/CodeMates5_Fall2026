@@ -15,6 +15,7 @@ This is a classic American family dish: comfort food for cold weather, with gril
 | Servings | 5 |
 | Difficulty | Easy |
 | Tags | vegetarian, comfort food, group-friendly, kid-friendly |
+| Spice Level | 🫑 |
 
 <!-- Note the fields in the markdown table -->
 
